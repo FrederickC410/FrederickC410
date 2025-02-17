@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## Hi there 👋 I'm <a href="(https://www.linkedin.com/in/frederick-christmas-96903223a/)">Frederick Christmas</a>☺</h1>
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
